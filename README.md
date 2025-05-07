@@ -8,7 +8,7 @@ I'm Thiago Villani, a hands-on Software Engineer, and I've been working in tech 
 - 🗣️ Languages: Portuguese | English | Italian | French
 
 ### Writing
-- I'm enjoying sharing knowledge at: [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](#)
+- I'm enjoying sharing knowledge at: [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/villanithiago)
 
 ### Technologies
 These are some of the technologies and tools that I enjoy working with:
